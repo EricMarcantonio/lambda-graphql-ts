@@ -1,4 +1,4 @@
-# AWS Lambda Starting Template :cloud_with_lightning:
+# AWS Lambda GraphQL Starting Template :cloud_with_lightning:
 
 ### Includes:
 
